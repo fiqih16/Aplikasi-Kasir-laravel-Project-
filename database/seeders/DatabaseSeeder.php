@@ -52,7 +52,7 @@ class DatabaseSeeder extends Seeder
         User::create([
             'name' => 'Fiqih',
             'username' => 'Fiqih',
-            'email' => 'ekomh13@gmail.com',
+            'email' => 'fiqih1666@gmail.com',
             'password' => Hash::make($password),
             'role' => 'Admin',
         ]);
